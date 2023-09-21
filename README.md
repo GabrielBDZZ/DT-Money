@@ -1,27 +1,7 @@
-# React + TypeScript + Vite
+# DT-Money
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação desenvolvida em React com Typescript para controle financeiro, contendo transações de entrada e de saída e resumo.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Captura de tela de 2023-09-09 14-26-28](https://github.com/GabrielBDZZ/DT-Money/assets/122994741/cdd7a166-7477-4200-b0b6-6bfd35161ebb)
+![Captura de tela de 2023-09-09 14-25-19](https://github.com/GabrielBDZZ/DT-Money/assets/122994741/f5b86338-1631-4e9e-aa38-b1cf2d1505ce)
+![Captura de tela de 2023-09-09 14-25-09](https://github.com/GabrielBDZZ/DT-Money/assets/122994741/62526885-265f-4ca1-8d0c-9df3d5af8cc7)
